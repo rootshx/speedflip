@@ -7,6 +7,9 @@ keep holding 'w' while the speed flip is being performed to use it the best way 
 
 I changed the hotkey from g to TMB2. So it is easier for keyboard players. The guy also has a script for the controller. You will find it by scrolling down at the UnknownCheats link
 
+## Version 2.0
+Removed all randomizers and significantly improved speedflip consistency by reducing failed attempts.
+
 ## Installation
 
 ```bash
